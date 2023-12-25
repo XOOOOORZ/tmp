@@ -1,0 +1,2 @@
+- This app has no server, does not collect any user information, only uses Google Firebase to collect crash reports and performance reports.
+- Some other permissions are required by Google Firebase.
